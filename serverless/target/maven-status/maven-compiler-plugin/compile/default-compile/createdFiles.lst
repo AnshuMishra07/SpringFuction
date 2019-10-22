@@ -1,0 +1,5 @@
+com/learning/service/DataService.class
+com/learning/handler/DataServiceFunctionHandler.class
+com/learning/service/DataFunction.class
+com/learning/domain/Data.class
+com/learning/ServerlessApp.class
